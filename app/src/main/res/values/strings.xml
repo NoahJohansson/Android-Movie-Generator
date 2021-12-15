@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PickMyMovie</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Main Menu</string>
+    <string name="second_fragment_label">My List</string>
+    <string name="third_fragment_label">Add Movie</string>
+    <string name="random_fragment_label">Random</string>
+    <string name="genres_fragment_label">Genres</string>
+    <string name="generated_movie_fragment_label">Generated Movie</string>
+    <string name="remove_movie_fragment_label">Remove Movie</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="my_movie_list">My List</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
